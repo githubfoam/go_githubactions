@@ -1,2 +1,3 @@
 # go_githubactions
-Go ubuntu CI workflow
+
+https://github.com/actions/go-versions/blob/main/versions-manifest.json
