@@ -5,7 +5,7 @@ name: "Go windows matrix CI workflow"
 
 on:
   push:
-    branches: [ dev ]
+    branches: [ main ]
 
 
 

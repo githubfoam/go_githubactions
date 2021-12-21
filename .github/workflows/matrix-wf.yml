@@ -5,7 +5,7 @@ name: "Go OS matrix  CI workflow"
 
 on:
   push:
-    branches: [ dev ]
+    branches: [ main ]
 
 
 jobs:

@@ -5,9 +5,7 @@ name: "Go ubuntu matrix CI workflow"
 
 on:
   push:
-    branches: [ dev ]
-  # pull_request:
-  #   branches: [ githubactions_powershell ]
+    branches: [ main ]
 
 
 jobs:
